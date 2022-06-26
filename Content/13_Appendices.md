@@ -34,4 +34,4 @@
 
 ### Voces
 
-#### Actor #1 Líneas
+#### Actor #1 - Líneas

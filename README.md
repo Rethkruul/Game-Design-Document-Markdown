@@ -205,4 +205,4 @@
         
         4. [Voces](Content/13_Appendices.md#voces)
             
-            1. [Actor #1 Líneas](Content/13_Appendices.md#actor-1-líneas)
+            1. [Actor #1 - Líneas](Content/13_Appendices.md#actor-1---líneas)
